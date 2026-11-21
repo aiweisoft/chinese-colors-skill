@@ -65,7 +65,7 @@ chinese-colors/
 
 ## 许可
 
-数据与算法源自 [chinese-colors](https://github.com/zerosoul/chinese-colors)（ISC License），Skill 封装亦以 ISC 协议开源。
+数据与算法源自 [chinese-colors](https://github.com/zerosoul/chinese-colors)（ISC License）；本仓库的 Skill 封装以 MIT 开源，详见文末 License。
 
 ## License
 
