@@ -69,4 +69,5 @@ chinese-colors/
 
 ## License
 
-[MIT](LICENSE)
+Skill 封装（SKILL.md、结构、脚本）采用 [MIT](LICENSE)。
+数据与配色算法源自 [chinese-colors](https://github.com/zerosoul/chinese-colors)，沿用其 ISC 许可；再分发时请保留该出处。
